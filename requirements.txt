@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-tensorflow
-pillow
-python-multipart
+scikit-learn
+joblib
